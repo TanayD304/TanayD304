@@ -26,3 +26,7 @@ Hello, my name is Tanay. At Vellore Institute of Technology, Vellore, I am curre
 
 ## :pushpin: Connect with me at -
 
+- ![github](github.png) - [TanayD304](https://github.com/TanayD304)
+- ![mail](gmail.png) - tdubey304@gmail.com
+- ![linkedin](linkedin.png) - [Tanay Dubey](https://www.linkedin.com/in/tanay-dubey-td304/)
+- ![whatsapp](whatsapp.png) - +91-7024903451
