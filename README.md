@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/TanayD304/TanayD304/master/ProfileHeader.jpg "Header")](https://github.com/TanayD304)
+
 ### Hi there 👋
 
 <!--
