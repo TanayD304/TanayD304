@@ -19,5 +19,10 @@ Hello, my name is Tanay. At Vellore Institute of Technology, Vellore, I am curre
 - [Three Column Preview Card Component](https://github.com/TanayD304/SocialProofSection)
 - [Stats Preview Card Component](https://github.com/TanayD304/StatsPreviewCardComponent)
 
+## Competitive Programming Handles
+
+- [Leetcode](https://leetcode.com/TanayD304/)
+- [CodeChef](https://www.codechef.com/users/tanayd304)
+
 ## Connect with me at -
 
