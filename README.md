@@ -8,11 +8,11 @@ Hello, my name is Tanay. At Vellore Institute of Technology, Vellore, I am curre
 
 ## :pushpin: Skills Acquired
 
-
+![](cpp.png) ![](css.png) ![](html.png)
 
 ## :pushpin: Skills Learning
 
-
+![](bootstrap.png) ![](js.png) ![](react.png) ![](sass.png) ![](node.png) ![](express.png) ![](mongo.png)
 
 ## :pushpin: Projects
 
