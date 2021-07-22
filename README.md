@@ -1,15 +1,28 @@
 [![Header](https://raw.githubusercontent.com/TanayD304/TanayD304/master/ProfileHeader.jpg "Header")](https://github.com/TanayD304)
 
-### Hi there 👋
+# Hi there 👋
 
 ## About me
 
+Hello, my name is Tanay. At Vellore Institute of Technology, Vellore, I am currently pursuing my Bachelors of Technology with a focus on Computer Science. Learning and improving are two things that I am extremely enthusiastic about. Problem Solving with Data Structures and Algorithms is where I'm currently focusing my efforts. I'd also like to work as a full-stack web developer.
+
 ## Skills Acquired
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path fill="#D26383" d="M115.4 30.7L67.1 2.9c-.8-.5-1.9-.7-3.1-.7-1.2 0-2.3.3-3.1.7l-48 27.9c-1.7 1-2.9 3.5-2.9 5.4v55.7c0 1.1.2 2.4 1 3.5l106.8-62c-.6-1.2-1.5-2.1-2.4-2.7z"/><path fill="#9C033A" d="M10.7 95.3c.5.8 1.2 1.5 1.9 1.9l48.2 27.9c.8.5 1.9.7 3.1.7 1.2 0 2.3-.3 3.1-.7l48-27.9c1.7-1 2.9-3.5 2.9-5.4V36.1c0-.9-.1-1.9-.6-2.8l-106.6 62z"/><path fill="#fff" d="M85.3 76.1C81.1 83.5 73.1 88.5 64 88.5c-13.5 0-24.5-11-24.5-24.5s11-24.5 24.5-24.5c9.1 0 17.1 5 21.3 12.5l13-7.5c-6.8-11.9-19.6-20-34.3-20-21.8 0-39.5 17.7-39.5 39.5s17.7 39.5 39.5 39.5c14.6 0 27.4-8 34.2-19.8l-12.9-7.6z"/><path d="M82.1 61.8h5.2v-5.3h4.4v5.3H97v4.4h-5.3v5.2h-4.4v-5.2h-5.2v-4.4zm18.5 0h5.2v-5.3h4.4v5.3h5.3v4.4h-5.3v5.2h-4.4v-5.2h-5.2v-4.4z" fill="#fff"/></svg> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path fill="#E44D26" d="M19.037 113.876L9.032 1.661h109.936l-10.016 112.198-45.019 12.48z"/><path fill="#F16529" d="M64 116.8l36.378-10.086 8.559-95.878H64z"/><path fill="#EBEBEB" d="M64 52.455H45.788L44.53 38.361H64V24.599H29.489l.33 3.692 3.382 37.927H64zm0 35.743l-.061.017-15.327-4.14-.979-10.975H33.816l1.928 21.609 28.193 7.826.063-.017z"/><path fill="#fff" d="M63.952 52.455v13.763h16.947l-1.597 17.849-15.35 4.143v14.319l28.215-7.82.207-2.325 3.234-36.233.335-3.696h-3.708zm0-27.856v13.762h33.244l.276-3.092.628-6.978.329-3.692z"/></svg> <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path fill="#1572B6" d="M18.814 114.123L8.76 1.352h110.48l-10.064 112.754-45.243 12.543-45.119-12.526z"/><path fill="#33A9DC" d="M64.001 117.062l36.559-10.136 8.601-96.354h-45.16v106.49z"/><path fill="#fff" d="M64.001 51.429h18.302l1.264-14.163H64.001V23.435h34.682l-.332 3.711-3.4 38.114h-30.95V51.429z"/><path fill="#EBEBEB" d="M64.083 87.349l-.061.018-15.403-4.159-.985-11.031H33.752l1.937 21.717 28.331 7.863.063-.018v-14.39z"/><path fill="#fff" d="M81.127 64.675l-1.666 18.522-15.426 4.164v14.39l28.354-7.858.208-2.337 2.406-26.881H81.127z"/><path fill="#EBEBEB" d="M64.048 23.435v13.831H30.64l-.277-3.108-.63-7.012-.331-3.711h34.646zm-.047 27.996v13.831H48.792l-.277-3.108-.631-7.012-.33-3.711h16.447z"/></svg>
 
+```
+<img class="logo__img" src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ logo vector">
+<img class="logo__img" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML logo vector">
+<img class="logo__img" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS logo vector">
+```
 
+## Skills Learning
 
-## Aspirations
+```
+<img class="logo__img" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="Javascript logo vector">
+<img class="logo__img" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React logo vector">
+<img class="logo__img" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node.js logo vector">
+<img class="logo__img" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux logo vector">
+<img class="logo__img" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB Icon logo vector">
+```
 
 ## Projects
 
