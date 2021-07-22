@@ -8,25 +8,16 @@ Hello, my name is Tanay. At Vellore Institute of Technology, Vellore, I am curre
 
 ## Skills Acquired
 
-```
-Learned
-<img class="logo__img" src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ logo vector">
-<img class="logo__img" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML logo vector">
-<img class="logo__img" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS logo vector">
-```
+
 
 ## Skills Learning
 
-```
-Learning
-<img class="logo__img" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="Javascript logo vector">
-<img class="logo__img" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React logo vector">
-<img class="logo__img" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node.js logo vector">
-<img class="logo__img" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux logo vector">
-<img class="logo__img" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB Icon logo vector">
-```
+
 
 ## Projects
+
+- [Three Column Preview Card Component](https://github.com/TanayD304/SocialProofSection)
+- [Stats Preview Card Component](https://github.com/TanayD304/StatsPreviewCardComponent)
 
 ## Connect with me at -
 
